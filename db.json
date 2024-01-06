@@ -8,10 +8,10 @@
             "isPlayed": true } ] }, 
     { "name": "Этап второй", 
         "id": 2, 
-        "thresholdPoints": 30, 
+        "thresholdPoints": 50, 
         "games": [ 
             { "name": "Игра 2.1", 
-                "bestResult": 70, 
+                "bestResult": 30, 
                 "isPlayed": true } ] }, 
     {"name": "Этап третий", 
         "id": 3, 

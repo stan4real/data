@@ -33,7 +33,7 @@
         "games": [ 
             { "name": "Игра 5.1", 
             "bestResult": 300, 
-            "isPlayed": true } ] }, 
+            "isPlayed": false } ] }, 
     {   "id": 6, 
         "name": "Этап шестой", 
         "thresholdPoints": 1000, 

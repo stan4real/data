@@ -12,28 +12,28 @@
         "games": [ 
             { "name": "Игра 2.1", 
                 "bestResult": 70, 
-                "isPlayed": true } ] }, 
+                "isPlayed": false } ] }, 
     {"name": "Этап третий", 
         "id": 3, 
         "thresholdPoints": 100, 
         "games": [ 
             { "name": "Игра 3.1", 
                 "bestResult": 110, 
-                "isPlayed": true } ] }, 
+                "isPlayed": false } ] }, 
     { "id": 4, 
         "name": "Этап четвертый", 
         "thresholdPoints": 200, 
         "games": [ 
         {   "name": "Игра 4.1",
             "bestResult": 200,
-            "isPlayed": true } ] }, 
+            "isPlayed": false } ] }, 
     {   "id": 5,
         "name": "Этап пятый", 
         "thresholdPoints": 500, 
         "games": [ 
             { "name": "Игра 5.1", 
             "bestResult": 300, 
-            "isPlayed": true } ] }, 
+            "isPlayed": false } ] }, 
     {   "id": 6, 
         "name": "Этап шестой", 
         "thresholdPoints": 1000, 
@@ -43,7 +43,7 @@
                 "isPlayed": true}, 
             { "name": "Игра 6.2", 
             "bestResult": 150, 
-            "isPlayed": true } ] 
+            "isPlayed": false } ] 
     } 
     ] 
 }

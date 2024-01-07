@@ -40,7 +40,7 @@
         "games": [ 
             { "name": "Игра 6.1", 
                 "bestResult": 150, 
-                "isPlayed": true}, 
+                "isPlayed": false}, 
             { "name": "Игра 6.2", 
             "bestResult": 150, 
             "isPlayed": false } ] 

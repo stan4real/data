@@ -26,13 +26,6 @@
         "games": [ 
         {   "name": "Игра 4.1",
             "bestResult": 200,
-            "isPlayed": false } ] }, 
-    {   "id": 5,
-        "name": "Этап пятый", 
-        "thresholdPoints": 500, 
-        "games": [ 
-            { "name": "Игра 5.1", 
-            "bestResult": 300, 
             "isPlayed": false } ] }
     
     ] 

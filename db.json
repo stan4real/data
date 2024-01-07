@@ -12,14 +12,14 @@
         "games": [ 
             { "name": "Игра 2.1", 
                 "bestResult": 70, 
-                "isPlayed": false } ] }, 
+                "isPlayed": true } ] }, 
     {"name": "Этап третий", 
         "id": 3, 
         "thresholdPoints": 100, 
         "games": [ 
             { "name": "Игра 3.1", 
                 "bestResult": 110, 
-                "isPlayed": false } ] }, 
+                "isPlayed": true } ] }, 
     { "id": 4, 
         "name": "Этап четвертый", 
         "thresholdPoints": 200, 

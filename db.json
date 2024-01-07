@@ -26,7 +26,23 @@
         "games": [ 
         {   "name": "Игра 4.1",
             "bestResult": 200,
+            "isPlayed": true } ] },
+    { "id": 5, 
+        "name": "Этап четвертый", 
+        "thresholdPoints": 500, 
+        "games": [ 
+        {   "name": "Игра 5.1",
+            "bestResult": 300,
+            "isPlayed": true } ] },
+    { "id": 6, 
+        "name": "Этап четвертый", 
+        "thresholdPoints": 1000, 
+        "games": [ 
+        {   "name": "Игра 6.1",
+            "bestResult": 150,
+            "isPlayed": true },
+        {   "name": "Игра 6.1",
+            "bestResult": 150,
             "isPlayed": false } ] }
-    
     ] 
 }

@@ -115,7 +115,7 @@
         "disabled":false,
         "expirationTime": null
     },
-          {     
+    {     
         "id":3,
         "attributes":{},
         "groupId":3,
@@ -131,7 +131,7 @@
         "category":"car",
         "disabled":false,
         "expirationTime": null
-    },
+    }
   ]
 }
 
